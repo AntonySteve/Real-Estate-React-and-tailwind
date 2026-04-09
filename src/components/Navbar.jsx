@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import {assets} from '../assets/assets'
-import { set } from 'mongoose'
 
 const Navbar = () => {
     const [showMobileMenu, setShowMobileMenu] = useState(false)
