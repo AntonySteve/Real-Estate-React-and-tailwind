@@ -8,7 +8,7 @@ This project showcases elegant UI design, smooth animations, reusable components
 ## 🚀 Live Demo
 
 🌐 Live Website:
-[Real Estate Demo](https://antonysteve.github.io/Real-Estate-React-and-tailwind?utm_source=chatgpt.com)
+[Real Estate Demo](https://real-estate-react-and-tailwind.netlify.app/)
 
 ---
 
